@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/soltsega/Leetcode-Problems/tree/master/0012-integer-to-roman) |
 | [0050-powx-n](https://github.com/soltsega/Leetcode-Problems/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/soltsega/Leetcode-Problems/tree/master/0069-sqrtx) |
 ## Binary Search
@@ -38,8 +39,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/soltsega/Leetcode-Problems/tree/master/0005-longest-palindromic-substring) |
+| [0012-integer-to-roman](https://github.com/soltsega/Leetcode-Problems/tree/master/0012-integer-to-roman) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/soltsega/Leetcode-Problems/tree/master/0005-longest-palindromic-substring) |
+## Hash Table
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/soltsega/Leetcode-Problems/tree/master/0012-integer-to-roman) |
 <!---LeetCode Topics End-->
