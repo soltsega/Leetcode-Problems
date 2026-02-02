@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/soltsega/Leetcode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/soltsega/Leetcode-Problems/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/soltsega/Leetcode-Problems/tree/master/0012-integer-to-roman) |
+| [0014-longest-common-prefix](https://github.com/soltsega/Leetcode-Problems/tree/master/0014-longest-common-prefix) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -54,4 +55,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2413-smallest-even-multiple](https://github.com/soltsega/Leetcode-Problems/tree/master/2413-smallest-even-multiple) |
+## Array
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/soltsega/Leetcode-Problems/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/soltsega/Leetcode-Problems/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
