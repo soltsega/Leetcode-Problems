@@ -1,3 +1,5 @@
+# Technique used: Sliding window
+
 class Solution(object):
     def strStr(self, haystack, needle):
         """
