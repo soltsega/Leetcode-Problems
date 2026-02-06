@@ -11,12 +11,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/soltsega/Leetcode-Problems/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/soltsega/Leetcode-Problems/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/soltsega/Leetcode-Problems/tree/master/0070-climbing-stairs) |
+| [0268-missing-number](https://github.com/soltsega/Leetcode-Problems/tree/master/0268-missing-number) |
 | [2413-smallest-even-multiple](https://github.com/soltsega/Leetcode-Problems/tree/master/2413-smallest-even-multiple) |
 ## Binary Search
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/soltsega/Leetcode-Problems/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/soltsega/Leetcode-Problems/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/soltsega/Leetcode-Problems/tree/master/0268-missing-number) |
 ## Recursion
 |  |
 | ------- |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/soltsega/Leetcode-Problems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/soltsega/Leetcode-Problems/tree/master/0013-roman-to-integer) |
+| [0268-missing-number](https://github.com/soltsega/Leetcode-Problems/tree/master/0268-missing-number) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/soltsega/Leetcode-Problems/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 ## Number Theory
 |  |
@@ -79,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/soltsega/Leetcode-Problems/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/soltsega/Leetcode-Problems/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/soltsega/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
+| [0268-missing-number](https://github.com/soltsega/Leetcode-Problems/tree/master/0268-missing-number) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/soltsega/Leetcode-Problems/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 ## Trie
 |  |
@@ -92,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/soltsega/Leetcode-Problems/tree/master/0067-add-binary) |
+| [0268-missing-number](https://github.com/soltsega/Leetcode-Problems/tree/master/0268-missing-number) |
 ## Simulation
 |  |
 | ------- |
@@ -104,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/soltsega/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
+| [0268-missing-number](https://github.com/soltsega/Leetcode-Problems/tree/master/0268-missing-number) |
 ## Stack
 |  |
 | ------- |
