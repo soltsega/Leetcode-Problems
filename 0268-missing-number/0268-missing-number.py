@@ -1,3 +1,7 @@
+# Technique used: Mathematical Trick
+# time complexity: O(N)
+# Space complexity: O(N)
+
 class Solution(object):
     def missingNumber(self, nums):
         """
