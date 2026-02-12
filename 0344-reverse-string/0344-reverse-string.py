@@ -1,14 +1,14 @@
 class Solution(object):
-    def reverseString(self, s):
+    def reverseString(self, string):
         """
         :type s: List[str]
         :rtype: None Do not return anything, modify s in-place instead.
         """
-        l, r = 0, len(s)-1
-        while l < r:
-            s[l], s[r] = s[r], s[l]
-            l += 1
-            r -= 1
-        return s
+        left, right = 0, len(string)-1
+        while left < right:
+            string[left], string[right] = string[right], string[left]
+            left += 1
+            right -= 1
+        return string
 
         
