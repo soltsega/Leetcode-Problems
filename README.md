@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/soltsega/Leetcode-Problems/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/soltsega/Leetcode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/soltsega/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
+| [0344-reverse-string](https://github.com/soltsega/Leetcode-Problems/tree/master/0344-reverse-string) |
 ## String
 |  |
 | ------- |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/soltsega/Leetcode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/soltsega/Leetcode-Problems/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/soltsega/Leetcode-Problems/tree/master/0067-add-binary) |
+| [0344-reverse-string](https://github.com/soltsega/Leetcode-Problems/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/soltsega/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 ## Dynamic Programming
 |  |
