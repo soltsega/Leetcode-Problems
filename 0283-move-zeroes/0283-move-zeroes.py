@@ -1,3 +1,7 @@
+# Technique used: Two pointer method/ In place manipulation
+# Time complexity: O(N)
+# Space complexity: O(1)
+
 class Solution(object):
     def moveZeroes(self, nums):
         """
