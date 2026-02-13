@@ -1,3 +1,8 @@
+# Technique used: Dynamic programming/Tabulation
+# Time complexity: O(N)
+# Space complexity: O(N)
+
+
 class Solution(object):
     def fib(self, n):
         """
