@@ -1,6 +1,6 @@
 # Technique used: Accumulation / Horner's method
 # Time complexity: O(N)
-# Space complexity: (!)
+# Space complexity: (1)
 
 class Solution(object):
     def titleToNumber(self, columnTitle):
