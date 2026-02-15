@@ -1,4 +1,4 @@
-# Technique used: The property of xor gate
+# Technique used: The property of XOR gate
 # Time complexity: O(N)
 # Space complexity: O(1)
 class Solution(object):
