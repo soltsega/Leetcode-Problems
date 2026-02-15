@@ -1,4 +1,4 @@
-# Technique used: Iteration
+# Technique used: Succesive division 
 # Time complexity: O(logN)
 # Space complexity: O(logN)
 
