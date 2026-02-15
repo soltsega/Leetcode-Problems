@@ -1,3 +1,7 @@
+# Technique used: Iteration
+# Time complexity: O(logN)
+# Space complexity: O(logN)
+
 class Solution(object):
     def convertToTitle(self, columnNumber):
         """
