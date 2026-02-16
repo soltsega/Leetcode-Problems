@@ -4,6 +4,10 @@
 #         self.val = val
 #         self.left = left
 #         self.right = right
+# Tecnique used: Recursion
+# Time complexity: O(N)
+# Space complexity: O(logN)
+
 class Solution(object):
     def sortedArrayToBST(self, nums):
         """
