@@ -1,3 +1,6 @@
+#Technique Used: Pairing and Sorting by key
+# Time complexity: O(Nlog(N))
+# Space complexity: O(N)
 class Solution(object):
     def sortPeople(self, names, heights):
         """
