@@ -1,3 +1,7 @@
+# Technique Used: Two pointer method: Colliding pointers
+# Time complexity: O(N)
+# Space Complesity: O(1)
+
 class Solution(object):
     def twoSum(self, numbers, target):
         """
