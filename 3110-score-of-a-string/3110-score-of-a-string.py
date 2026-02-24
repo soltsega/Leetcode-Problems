@@ -1,5 +1,9 @@
+# Technique Used: Iterative accumulation
+# Time complexity: O(N)
+# Space complexity: O(1)
+
 class Solution(object):
-    def scoreOfString(self, s) :
+    def scoreOfString(self, s):
         """
         :type s: str
         :rtype: int
