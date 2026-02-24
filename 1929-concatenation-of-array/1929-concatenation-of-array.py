@@ -1,3 +1,8 @@
+# Technique used: Iteration/array traversal
+# Time comeplexity: O(N)
+# Space complexity:O(N)
+
+
 class Solution(object):
     def getConcatenation(self, nums):
         """
