@@ -1,3 +1,6 @@
+# Technique used:: Two pass
+# Time complexity: O(N)
+# Space complexity: O(1)
 class Solution(object):
     def isMonotonic(self, nums):
         """
