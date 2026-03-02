@@ -1,3 +1,7 @@
+# Technique Used: Prefix Sum
+# Time Complexity: O(N)
+# Space Complexity: O(1)
+
 class Solution(object):
     def runningSum(self, nums):
         """
