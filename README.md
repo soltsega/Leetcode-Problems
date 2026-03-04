@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/soltsega/Leetcode-Problems/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/soltsega/Leetcode-Problems/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/soltsega/Leetcode-Problems/tree/master/0171-excel-sheet-column-number) |
+| [0242-valid-anagram](https://github.com/soltsega/Leetcode-Problems/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/soltsega/Leetcode-Problems/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/soltsega/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [2418-sort-the-people](https://github.com/soltsega/Leetcode-Problems/tree/master/2418-sort-the-people) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/soltsega/Leetcode-Problems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/soltsega/Leetcode-Problems/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/soltsega/Leetcode-Problems/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/soltsega/Leetcode-Problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/soltsega/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/soltsega/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/soltsega/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/soltsega/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/soltsega/Leetcode-Problems/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/soltsega/Leetcode-Problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/soltsega/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/soltsega/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/soltsega/Leetcode-Problems/tree/master/2225-find-players-with-zero-or-one-losses) |
