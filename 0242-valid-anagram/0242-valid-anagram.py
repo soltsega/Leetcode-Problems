@@ -1,3 +1,7 @@
+# Technique used: Hash Table(Array)
+# Time complesity: O(N+M)
+# Space complesity: O(1)
+
 class Solution(object):
     def isAnagram(self, s, t):
         """
