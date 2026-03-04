@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/soltsega/Leetcode-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [0661-image-smoother](https://github.com/soltsega/Leetcode-Problems/tree/master/0661-image-smoother) |
 | [0896-monotonic-array](https://github.com/soltsega/Leetcode-Problems/tree/master/0896-monotonic-array) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/soltsega/Leetcode-Problems/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1480-running-sum-of-1d-array](https://github.com/soltsega/Leetcode-Problems/tree/master/1480-running-sum-of-1d-array) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/soltsega/Leetcode-Problems/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [1929-concatenation-of-array](https://github.com/soltsega/Leetcode-Problems/tree/master/1929-concatenation-of-array) |
