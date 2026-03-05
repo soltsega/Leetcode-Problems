@@ -1,3 +1,7 @@
+# Technique used: Two pointers
+# Time complexity: O(N)
+# Space complexity: O(1)
+
 class Solution(object):
     def isSubsequence(self, s, t):
         """
