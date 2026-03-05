@@ -1,4 +1,9 @@
-class Solution(object):
+# Technique used: Iteration
+# Time complexity: O(N)
+# Space complesity: O(1)
+
+class Solution(object):    
+    
     def lengthOfLastWord(self, s):
         """
         :type s: str
