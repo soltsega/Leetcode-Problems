@@ -1,3 +1,7 @@
+# Technique used: Iteration and string slicing
+# Time complexity: O(N)
+# Space complexity: O(1)
+
 class Solution:
     def countSeniors(self, details):
         res = 0
