@@ -7,10 +7,13 @@ class Solution(object):
         :type needle: str
         :rtype: int
         """
-        n = len(needle)
-        h = len(haystack)
-
-        for i in range(h-n+1):
-            if haystack[i:i+n]==needle:
+        n, m = len(haystack), len(needle)
+        for i in range(n - m + 1):
+            j = 0
+            while j < m:
+                if haystack[i + j] != needle[j]:
+                    break
+                j += 1
+            if j == m:
                 return i
         return -1
