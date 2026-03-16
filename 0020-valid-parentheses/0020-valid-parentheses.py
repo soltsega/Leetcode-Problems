@@ -1,3 +1,8 @@
+# Technique used: Stack data strucutre
+# Time complexity: O(N)
+# Space complexity: O(N)
+
+
 class Solution(object):
     def isValid(self, s):
         """
