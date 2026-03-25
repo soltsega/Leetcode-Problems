@@ -1,5 +1,5 @@
 -- Write your PostgreSQL query statement below
--- Technique used: Subquery and Left join 
+-- Technique used: Subquery and Left Join 
 SELECT name 
 FROM SalesPerson 
 WHERE sales_id
