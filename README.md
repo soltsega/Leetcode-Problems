@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/soltsega/Leetcode-Problems/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/soltsega/Leetcode-Problems/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/soltsega/Leetcode-Problems/tree/master/0189-rotate-array) |
+| [0258-add-digits](https://github.com/soltsega/Leetcode-Problems/tree/main/0258-add-digits/) | Easy |
 | [0268-missing-number](https://github.com/soltsega/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/soltsega/Leetcode-Problems/tree/main/0342-power-of-four/) | Easy |
 | [0509-fibonacci-number](https://github.com/soltsega/Leetcode-Problems/tree/master/0509-fibonacci-number) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0258-add-digits](https://github.com/soltsega/Leetcode-Problems/tree/main/0258-add-digits/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/soltsega/Leetcode-Problems/tree/master/2413-smallest-even-multiple) |
 ## Array
 | Problem Name | Difficulty |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/soltsega/Leetcode-Problems/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/soltsega/Leetcode-Problems/tree/main/0258-add-digits/) | Easy |
 | [1929-concatenation-of-array](https://github.com/soltsega/Leetcode-Problems/tree/master/1929-concatenation-of-array) |
 | [2460-apply-operations-to-an-array](https://github.com/soltsega/Leetcode-Problems/tree/master/2460-apply-operations-to-an-array) |
 ## Memoization
