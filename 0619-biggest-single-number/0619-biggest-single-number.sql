@@ -1,4 +1,5 @@
 -- Write your PostgreSQL query statement below
+-- Techniques used: Subquery, GROUP BY, HAVING, COUNT, and MAX
 SELECT MAX(num) as num
 FROM (
     SELECT num 
