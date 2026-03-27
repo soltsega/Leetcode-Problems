@@ -1,3 +1,8 @@
+// Technique used: Recursion
+// Time complexity: O(logN)
+// Space complexity: O(log(logN))
+
+
 class Solution {
 public:
     int addDigits(int n) {
