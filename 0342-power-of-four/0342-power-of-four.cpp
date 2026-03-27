@@ -1,3 +1,7 @@
+// Technique used: Iteration(while loop)
+// Time complexity: O(N)
+// Space complexity: O(1)
+
 class Solution {
 public:
     bool isPowerOfFour(int n) {
