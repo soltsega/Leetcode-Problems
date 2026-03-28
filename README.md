@@ -258,4 +258,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0596-classes-with-at-least-5-students](https://github.com/soltsega/Leetcode-Problems/tree/main/0596-classes-with-at-least-5-students/) | Easy |
 | [0607-sales-person](https://github.com/soltsega/Leetcode-Problems/tree/main/0607-sales-person/) | Easy |
 | [0619-biggest-single-number](https://github.com/soltsega/Leetcode-Problems/tree/main/0619-biggest-single-number/) | Easy |
+| [1484-group-sold-products-by-the-date](https://github.com/soltsega/Leetcode-Problems/tree/main/1484-group-sold-products-by-the-date/) | Easy |
 <!---LeetCode Topics End-->
