@@ -1,3 +1,7 @@
+// Technique used: Iteration
+// Time complexity: O(N)
+// Space complexity: O(1)
+
 class Solution {
 public:
     bool isPowerOfThree(int n) {
