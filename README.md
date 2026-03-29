@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/soltsega/Leetcode-Problems/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/soltsega/Leetcode-Problems/tree/main/0258-add-digits/) | Easy |
 | [0268-missing-number](https://github.com/soltsega/Leetcode-Problems/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/soltsega/Leetcode-Problems/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/soltsega/Leetcode-Problems/tree/main/0342-power-of-four/) | Easy |
 | [0509-fibonacci-number](https://github.com/soltsega/Leetcode-Problems/tree/master/0509-fibonacci-number) |
 | [2413-smallest-even-multiple](https://github.com/soltsega/Leetcode-Problems/tree/master/2413-smallest-even-multiple) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0050-powx-n](https://github.com/soltsega/Leetcode-Problems/tree/master/0050-powx-n) |
+| [0326-power-of-three](https://github.com/soltsega/Leetcode-Problems/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/soltsega/Leetcode-Problems/tree/main/0342-power-of-four/) | Easy |
 | [0509-fibonacci-number](https://github.com/soltsega/Leetcode-Problems/tree/master/0509-fibonacci-number) |
 ## Linked List
