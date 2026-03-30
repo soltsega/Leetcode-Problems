@@ -1,3 +1,8 @@
+# Technique used: Fixed width reversal
+# Time complexity: O(N)
+# Space complexity: O(1)
+
+
 class Solution(object):
     def reverseBits(self, n):
         """
