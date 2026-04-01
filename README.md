@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0050-powx-n](https://github.com/soltsega/Leetcode-Problems/tree/master/0050-powx-n) |
+| [0203-remove-linked-list-elements](https://github.com/soltsega/Leetcode-Problems/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0326-power-of-three](https://github.com/soltsega/Leetcode-Problems/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/soltsega/Leetcode-Problems/tree/main/0342-power-of-four/) | Easy |
 | [0509-fibonacci-number](https://github.com/soltsega/Leetcode-Problems/tree/master/0509-fibonacci-number) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/soltsega/Leetcode-Problems/tree/master/0023-merge-k-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/soltsega/Leetcode-Problems/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0203-remove-linked-list-elements](https://github.com/soltsega/Leetcode-Problems/tree/main/0203-remove-linked-list-elements/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
