@@ -4,10 +4,6 @@
 #         self.val = val
 #         self.left = left
 #         self.right = right
-
-# Technique used: Depth first search
-# Time complexity: O(N)
-# Space complexity: O(N) and O(logN) if the tree is balanced
 class Solution(object):
     def maxDepth(self, root):
         """
@@ -16,7 +12,10 @@ class Solution(object):
         """
         if not root:
             return 0
-        left_height = self.maxDepth(root.left)
-        right_height = self.maxDepth(root.right)
+        
+        left_depth = self.maxDepth(root.left)
+        right_depth = self.maxDepth(root.right)
 
-        return max(left_height, right_height) + 1
+        return max(left_depth,right_depth) + 1
+
+        
