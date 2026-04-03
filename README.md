@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/soltsega/Leetcode-Problems/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/soltsega/Leetcode-Problems/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0450-delete-node-in-a-bst](https://github.com/soltsega/Leetcode-Problems/tree/main/0450-delete-node-in-a-bst/) | Medium |
+| [0701-insert-into-a-binary-search-tree](https://github.com/soltsega/Leetcode-Problems/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/soltsega/Leetcode-Problems/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/soltsega/Leetcode-Problems/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0450-delete-node-in-a-bst](https://github.com/soltsega/Leetcode-Problems/tree/main/0450-delete-node-in-a-bst/) | Medium |
+| [0701-insert-into-a-binary-search-tree](https://github.com/soltsega/Leetcode-Problems/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/soltsega/Leetcode-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/soltsega/Leetcode-Problems/tree/main/0450-delete-node-in-a-bst/) | Medium |
+| [0701-insert-into-a-binary-search-tree](https://github.com/soltsega/Leetcode-Problems/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
