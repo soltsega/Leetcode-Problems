@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/soltsega/Leetcode-Problems/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/soltsega/Leetcode-Problems/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0450-delete-node-in-a-bst](https://github.com/soltsega/Leetcode-Problems/tree/main/0450-delete-node-in-a-bst/) | Medium |
+| [0617-merge-two-binary-trees](https://github.com/soltsega/Leetcode-Problems/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/soltsega/Leetcode-Problems/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/soltsega/Leetcode-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/soltsega/Leetcode-Problems/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/soltsega/Leetcode-Problems/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0617-merge-two-binary-trees](https://github.com/soltsega/Leetcode-Problems/tree/main/0617-merge-two-binary-trees/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/soltsega/Leetcode-Problems/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/soltsega/Leetcode-Problems/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0450-delete-node-in-a-bst](https://github.com/soltsega/Leetcode-Problems/tree/main/0450-delete-node-in-a-bst/) | Medium |
+| [0617-merge-two-binary-trees](https://github.com/soltsega/Leetcode-Problems/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/soltsega/Leetcode-Problems/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -247,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/soltsega/Leetcode-Problems/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/soltsega/Leetcode-Problems/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/soltsega/Leetcode-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0617-merge-two-binary-trees](https://github.com/soltsega/Leetcode-Problems/tree/main/0617-merge-two-binary-trees/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
