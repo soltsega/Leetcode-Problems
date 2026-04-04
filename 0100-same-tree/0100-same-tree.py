@@ -11,14 +11,9 @@ class Solution(object):
         :type q: Optional[TreeNode]
         :rtype: bool
         """
-        # If both nodes are null, we've reached the end of the branch successfully
         if not p and not q:
             return True
-        
-        # If one node is null and the other isn't, OR the values differ, they aren't the same
         if not p or not q or p.val != q.val:
             return False
         
-        # Recursively check the left children and the right children
-        # Both must return True for the trees to be identical
-        return self.isSameTree(p.left, q.left) and self.isSameTree(p.right, q.right)
+        return self.isSameTree(p.right, q.right) and self.isSameTree(p.left, q.left)
