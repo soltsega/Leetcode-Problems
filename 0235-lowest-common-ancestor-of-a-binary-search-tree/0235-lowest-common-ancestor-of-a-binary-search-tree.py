@@ -1,3 +1,7 @@
+# Technique used: Binary search traversal
+# Time complexity: O(N)
+# Space complexity: O(H)
+
 # Definition for a binary tree node.
 # class TreeNode(object):
 #     def __init__(self, x):
