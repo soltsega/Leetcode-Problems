@@ -17,7 +17,7 @@ class Solution(object):
         while root:
             if p.val > root.val and q.val > root.val:
                 root = root.right
-            else if p.val < root.val and q.val < root.val:
+            elif p.val < root.val and q.val < root.val:
                 root = root.left
             else:
                 return root
