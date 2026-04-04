@@ -15,12 +15,9 @@ class Solution(object):
         """
 
         while root:
-            # Case 1: Both values are in the right subtree
             if p.val > root.val and q.val > root.val:
                 root = root.right
-            # Case 2: Both values are in the left subtree
-            elif p.val < root.val and q.val < root.val:
+            else if p.val < root.val and q.val < root.val:
                 root = root.left
-            # Case 3: We found the split point (the LCA)
             else:
                 return root
