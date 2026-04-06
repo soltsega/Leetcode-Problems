@@ -1,4 +1,4 @@
-# TEchnique used: REcursion
+# TEchnique used: Recursion
 # Time complexity: O(logn)
 # Space complexity: O(logn)
 
