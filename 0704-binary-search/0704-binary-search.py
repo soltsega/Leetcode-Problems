@@ -1,3 +1,7 @@
+# TEchnique used: REcursion
+# Time complexity: O(logn)
+# Space complexity: O(logn)
+
 class Solution(object):
     def search(self, nums, target):
         def helper(left, right):
