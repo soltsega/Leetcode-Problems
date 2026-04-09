@@ -1,3 +1,7 @@
+# Techinque used: Iteration
+# Time complexity: O(N)
+# Space complexity: O(1) unless all are 9s
+
 class Solution(object):
     def plusOne(self, digits):
         """
