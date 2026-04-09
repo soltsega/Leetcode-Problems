@@ -1,3 +1,8 @@
+#Technique used:In order traversal
+# Time complexity: O(N)
+# Space complexity: O(h) where h is the height of the BST
+
+
 # Definition for a binary tree node.
 # class TreeNode:
 #     def __init__(self, val=0, left=None, right=None):
