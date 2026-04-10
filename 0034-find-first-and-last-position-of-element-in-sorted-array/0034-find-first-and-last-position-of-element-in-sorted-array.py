@@ -1,3 +1,6 @@
+# Technique used: Binary search
+# Time complexity: O(logN) + O(logN) = O(logN)
+# Space complecity: O(1)
 class Solution:
     def searchRange(self, nums: List[int], target: int) -> List[int]:
         def findFirst():
