@@ -7,8 +7,8 @@ class Solution:
             mid = (low +high)//2
             if mid*mid <= x:
                 sqrt_x = mid
-                low += 1
+                low = mid + 1
             else:
-                high -= 1
+                high = mid - 1
         return sqrt_x
         
