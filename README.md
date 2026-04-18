@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/soltsega/Leetcode-Problems/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/soltsega/Leetcode-Problems/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1480-running-sum-of-1d-array](https://github.com/soltsega/Leetcode-Problems/tree/master/1480-running-sum-of-1d-array) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/soltsega/Leetcode-Problems/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/soltsega/Leetcode-Problems/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [1929-concatenation-of-array](https://github.com/soltsega/Leetcode-Problems/tree/master/1929-concatenation-of-array) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/soltsega/Leetcode-Problems/tree/master/2225-find-players-with-zero-or-one-losses) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/soltsega/Leetcode-Problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/soltsega/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/soltsega/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/soltsega/Leetcode-Problems/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/soltsega/Leetcode-Problems/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2418-sort-the-people](https://github.com/soltsega/Leetcode-Problems/tree/master/2418-sort-the-people) |
 ## Stack
