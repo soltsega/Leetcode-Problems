@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/soltsega/Leetcode-Problems/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/soltsega/Leetcode-Problems/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/soltsega/Leetcode-Problems/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/soltsega/Leetcode-Problems/tree/main/0231-power-of-two/) | Easy |
 | [0258-add-digits](https://github.com/soltsega/Leetcode-Problems/tree/main/0258-add-digits/) | Easy |
 | [0268-missing-number](https://github.com/soltsega/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/soltsega/Leetcode-Problems/tree/main/0326-power-of-three/) | Easy |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0050-powx-n](https://github.com/soltsega/Leetcode-Problems/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/soltsega/Leetcode-Problems/tree/main/0203-remove-linked-list-elements/) | Easy |
+| [0231-power-of-two](https://github.com/soltsega/Leetcode-Problems/tree/main/0231-power-of-two/) | Easy |
 | [0326-power-of-three](https://github.com/soltsega/Leetcode-Problems/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/soltsega/Leetcode-Problems/tree/main/0342-power-of-four/) | Easy |
 | [0509-fibonacci-number](https://github.com/soltsega/Leetcode-Problems/tree/master/0509-fibonacci-number) |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/soltsega/Leetcode-Problems/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/soltsega/Leetcode-Problems/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/soltsega/Leetcode-Problems/tree/main/0190-reverse-bits/) | Easy |
+| [0231-power-of-two](https://github.com/soltsega/Leetcode-Problems/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/soltsega/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/soltsega/Leetcode-Problems/tree/main/0338-counting-bits/) | Easy |
 | [0342-power-of-four](https://github.com/soltsega/Leetcode-Problems/tree/main/0342-power-of-four/) | Easy |
