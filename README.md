@@ -310,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0607-sales-person](https://github.com/soltsega/Leetcode-Problems/tree/main/0607-sales-person/) | Easy |
 | [0610-triangle-judgement](https://github.com/soltsega/Leetcode-Problems/tree/main/0610-triangle-judgement/) | Easy |
 | [0619-biggest-single-number](https://github.com/soltsega/Leetcode-Problems/tree/main/0619-biggest-single-number/) | Easy |
+| [0620-not-boring-movies](https://github.com/soltsega/Leetcode-Problems/tree/main/0620-not-boring-movies/) | Easy |
 | [0627-swap-sex-of-employees](https://github.com/soltsega/Leetcode-Problems/tree/main/0627-swap-sex-of-employees/) | Easy |
 | [1484-group-sold-products-by-the-date](https://github.com/soltsega/Leetcode-Problems/tree/main/1484-group-sold-products-by-the-date/) | Easy |
 | [1517-find-users-with-valid-e-mails](https://github.com/soltsega/Leetcode-Problems/tree/main/1517-find-users-with-valid-e-mails/) | Easy |
