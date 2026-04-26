@@ -1,3 +1,7 @@
+# Technique used: Brian Kernighan’s Algorithm
+# Time complexity: O(K) where K is the number of set bits or 1's
+# Space complexity: O(1)
+
 class Solution:
     def hammingWeight(self, n: int) -> int:
         count = 0
