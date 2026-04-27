@@ -320,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/soltsega/Leetcode-Problems/tree/main/1050-actors-and-directors-who-cooperated-at-least-three-times/) | Easy |
 | [1068-product-sales-analysis-i](https://github.com/soltsega/Leetcode-Problems/tree/main/1068-product-sales-analysis-i/) | Easy |
 | [1075-project-employees-i](https://github.com/soltsega/Leetcode-Problems/tree/main/1075-project-employees-i/) | Easy |
+| [1084-sales-analysis-iii](https://github.com/soltsega/Leetcode-Problems/tree/main/1084-sales-analysis-iii/) | Easy |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/soltsega/Leetcode-Problems/tree/main/1141-user-activity-for-the-past-30-days-i/) | Easy |
 | [1484-group-sold-products-by-the-date](https://github.com/soltsega/Leetcode-Problems/tree/main/1484-group-sold-products-by-the-date/) | Easy |
 | [1517-find-users-with-valid-e-mails](https://github.com/soltsega/Leetcode-Problems/tree/main/1517-find-users-with-valid-e-mails/) | Easy |
