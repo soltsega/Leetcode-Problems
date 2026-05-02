@@ -325,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1148-article-views-i](https://github.com/soltsega/Leetcode-Problems/tree/main/1148-article-views-i/) | Easy |
 | [1179-reformat-department-table](https://github.com/soltsega/Leetcode-Problems/tree/main/1179-reformat-department-table/) | Easy |
 | [1211-queries-quality-and-percentage](https://github.com/soltsega/Leetcode-Problems/tree/main/1211-queries-quality-and-percentage/) | Easy |
+| [1251-average-selling-price](https://github.com/soltsega/Leetcode-Problems/tree/main/1251-average-selling-price/) | Easy |
 | [1484-group-sold-products-by-the-date](https://github.com/soltsega/Leetcode-Problems/tree/main/1484-group-sold-products-by-the-date/) | Easy |
 | [1517-find-users-with-valid-e-mails](https://github.com/soltsega/Leetcode-Problems/tree/main/1517-find-users-with-valid-e-mails/) | Easy |
 <!---LeetCode Topics End-->
