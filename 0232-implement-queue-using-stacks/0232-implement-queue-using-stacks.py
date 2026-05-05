@@ -1,3 +1,5 @@
+# Time complexity: O(1) which is amortized constant time complexity. each method operations take constant time complexity
+# Space complexity: O(N) for the two stacks
 class MyQueue:
 
     def __init__(self):
