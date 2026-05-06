@@ -332,5 +332,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1407-top-travellers](https://github.com/soltsega/Leetcode-Problems/tree/main/1407-top-travellers/) | Easy |
 | [1484-group-sold-products-by-the-date](https://github.com/soltsega/Leetcode-Problems/tree/main/1484-group-sold-products-by-the-date/) | Easy |
 | [1517-find-users-with-valid-e-mails](https://github.com/soltsega/Leetcode-Problems/tree/main/1517-find-users-with-valid-e-mails/) | Easy |
+| [1527-patients-with-a-condition](https://github.com/soltsega/Leetcode-Problems/tree/main/1527-patients-with-a-condition/) | Easy |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/soltsega/Leetcode-Problems/tree/main/1633-percentage-of-users-attended-a-contest/) | Easy |
 <!---LeetCode Topics End-->
