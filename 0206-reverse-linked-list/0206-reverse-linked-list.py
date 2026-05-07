@@ -1,3 +1,7 @@
+# Technique used: Iteration
+# Time complexity: O(N)
+# Space complexity: O(1)
+# which is optimial solution. we may have linear space complxity if we use the recurive one
 # Definition for singly-linked list.
 # class ListNode:
 #     def __init__(self, val=0, next=None):
