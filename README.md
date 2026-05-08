@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/soltsega/Leetcode-Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/soltsega/Leetcode-Problems/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/soltsega/Leetcode-Problems/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0225-implement-stack-using-queues](https://github.com/soltsega/Leetcode-Problems/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/soltsega/Leetcode-Problems/tree/main/0232-implement-queue-using-stacks/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0225-implement-stack-using-queues](https://github.com/soltsega/Leetcode-Problems/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/soltsega/Leetcode-Problems/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/soltsega/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 ## Binary Search Tree
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0225-implement-stack-using-queues](https://github.com/soltsega/Leetcode-Problems/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/soltsega/Leetcode-Problems/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0303-range-sum-query-immutable](https://github.com/soltsega/Leetcode-Problems/tree/master/0303-range-sum-query-immutable) |
 ## Database
