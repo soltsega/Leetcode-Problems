@@ -1,3 +1,7 @@
+# Technique used: Breadth first search
+# Time complexity: O(N) where N is the number of nodes
+# Space complexity: O(H) or O(logN) where H = logN
+
 # Definition for a binary tree node.
 # class TreeNode:
 #     def __init__(self, val=0, left=None, right=None):
@@ -14,6 +18,4 @@ class Solution:
         self.invertTree(root.left)
         self.invertTree(root.right)
 
-        return root
-
-        
+        return root        
