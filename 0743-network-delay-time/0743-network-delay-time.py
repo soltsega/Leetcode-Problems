@@ -1,35 +1,24 @@
-from collections import defaultdict
-import heapq
+# Technique used: Dijkstra's algorithm
+# Time complexity: O(ElogV)
+# Space complexity: O(E + V)
 
 class Solution:
-    def networkDelayTime(self, times, n, k):
-        # Build graph: Linked list
-        graph = defaultdict(list)
-
+    def networkDelayTime(self, times: List[List[int]], n: int, k: int) -> int:
+        edges = collections.defaultdict(list)
         for u, v, w in times:
-            graph[u].append((v, w))
+            edges[u].append((v, w))
 
-        # Min heap: (distance, node)
-        heap = [(0, k)]
-
-        # Shortest distances
-        dist = {}
-
-        while heap:
-            time, node = heapq.heappop(heap)
-
-            # Already visited with shorter path
-            if node in dist:
+        minHeap = [(0, k)]
+        visit = set()
+        t = 0
+        while minHeap:
+            w1, n1 = heapq.heappop(minHeap)
+            if n1 in visit:
                 continue
+            visit.add(n1)
+            t = w1
 
-            dist[node] = time
-
-            for nei, weight in graph[node]:
-                if nei not in dist:
-                    heapq.heappush(heap, (time + weight, nei))
-
-        # If not all nodes reached
-        if len(dist) != n:
-            return -1
-
-        return max(dist.values())
+            for n2, w2 in edges[n1]:
+                if n2 not in visit:
+                    heapq.heappush(minHeap, (w1 + w2, n2))
+        return t if len(visit) == n else -1
