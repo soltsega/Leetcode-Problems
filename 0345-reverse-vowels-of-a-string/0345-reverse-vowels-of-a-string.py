@@ -1,3 +1,9 @@
+# Technique used: Two pointer method
+# WE use nested while loops but the inner ones don't reset outer one only extends the movements of those two. 
+# Time complexity: O(N)
+# Space complexity: O(N)
+
+
 class Solution:
     def reverseVowels(self, s: str) -> str:
         char = list(s)
