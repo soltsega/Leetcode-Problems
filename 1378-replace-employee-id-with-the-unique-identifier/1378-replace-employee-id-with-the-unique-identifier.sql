@@ -1,4 +1,5 @@
 /* Write your T-SQL query statement below */
+-- Technique used: Left join
 SELECT 
     eu.unique_id, 
     e.name
