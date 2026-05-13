@@ -1,3 +1,7 @@
+# Technique used: Depth first search
+# Time complexity: O(log^2N) since we use the early exit. The left shift part
+# Space complexity: O(1) since we used the iteration technique 
+
 # Definition for a binary tree node.
 # class TreeNode:
 #     def __init__(self, val=0, left=None, right=None):
