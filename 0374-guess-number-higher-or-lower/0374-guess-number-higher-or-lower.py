@@ -10,7 +10,7 @@ class Solution:
         low = 0
         high = n
         while low <= high:
-            mid = low + (high-low)//2
+            mid = int(low + (high-low)/2)
             res = guess(mid)
 
             if res == 0:
