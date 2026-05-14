@@ -1,3 +1,7 @@
+# Technique used: Binary search 
+# Time complexity: O(logN) since we have used binary search 
+# Space complexity: O(1) since we have used iteration 
+
 # The guess API is already defined for you.
 # @param num, your guess
 # @return -1 if num is higher than the picked number
