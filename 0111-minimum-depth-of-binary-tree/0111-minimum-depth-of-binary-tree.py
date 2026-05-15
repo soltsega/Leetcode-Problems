@@ -1,5 +1,7 @@
-from collections import deque
-from typing import Optional
+#Technique used: BFS
+# Time complexity: O(N) where N is the number of nodes or vertices
+# Space complexity: O(N) for the queue used
+
 
 # Definition for a binary tree node.
 class TreeNode:
