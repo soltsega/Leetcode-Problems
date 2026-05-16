@@ -1,3 +1,7 @@
+# TEchnique used: Bit manipulation
+# Time complexity: O(logN)^2 since we have used nested while loop
+# Space complexity: O(1) since we have used iteration
+
 class Solution:
     def divide(self, dividend: int, divisor: int) -> int:
         INT_MAX = 2**31 - 1
