@@ -1,4 +1,4 @@
-# Technique used:
+# Technique used:Digit Extraction
 # Time complexity: O(log10N)
 # Space complexity: O(1)
 
