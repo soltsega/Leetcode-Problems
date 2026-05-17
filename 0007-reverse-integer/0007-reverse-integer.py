@@ -1,3 +1,7 @@
+# Technique used:
+# Time complexity: O(log10N)
+# Space complexity: O(1)
+
 class Solution:
     def reverse(self, x: int) -> int:
         # Define the 32-bit signed integer boundaries
