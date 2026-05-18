@@ -374,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1667-fix-names-in-a-table](https://github.com/soltsega/Leetcode-Problems/tree/main/1667-fix-names-in-a-table/) | Easy |
 | [1683-invalid-tweets](https://github.com/soltsega/Leetcode-Problems/tree/main/1683-invalid-tweets/) | Easy |
 | [1729-find-followers-count](https://github.com/soltsega/Leetcode-Problems/tree/main/1729-find-followers-count/) | Easy |
+| [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/soltsega/Leetcode-Problems/tree/main/1731-the-number-of-employees-which-report-to-each-employee/) | Easy |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
