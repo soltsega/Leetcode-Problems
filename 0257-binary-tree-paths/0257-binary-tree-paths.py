@@ -1,3 +1,7 @@
+# Technique used: BFS or Breadth first search 
+# Time complexity: O(NlogN) where N is the number of nodes. It is average case time complexity. It may even go up to N^2 as a worst case 
+# Space complexity: O(logN) 
+
 # Definition for a binary tree node.
 # class TreeNode:
 #     def __init__(self, val=0, left=None, right=None):
