@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/soltsega/Leetcode-Problems/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/soltsega/Leetcode-Problems/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/soltsega/Leetcode-Problems/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/soltsega/Leetcode-Problems/tree/main/0257-binary-tree-paths/) | Easy |
 | [0344-reverse-string](https://github.com/soltsega/Leetcode-Problems/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/soltsega/Leetcode-Problems/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/soltsega/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/soltsega/Leetcode-Problems/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0226-invert-binary-tree](https://github.com/soltsega/Leetcode-Problems/tree/main/0226-invert-binary-tree/) | Easy |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/soltsega/Leetcode-Problems/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+| [0257-binary-tree-paths](https://github.com/soltsega/Leetcode-Problems/tree/main/0257-binary-tree-paths/) | Easy |
 | [0450-delete-node-in-a-bst](https://github.com/soltsega/Leetcode-Problems/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0617-merge-two-binary-trees](https://github.com/soltsega/Leetcode-Problems/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/soltsega/Leetcode-Problems/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/soltsega/Leetcode-Problems/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0226-invert-binary-tree](https://github.com/soltsega/Leetcode-Problems/tree/main/0226-invert-binary-tree/) | Easy |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/soltsega/Leetcode-Problems/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+| [0257-binary-tree-paths](https://github.com/soltsega/Leetcode-Problems/tree/main/0257-binary-tree-paths/) | Easy |
 | [0617-merge-two-binary-trees](https://github.com/soltsega/Leetcode-Problems/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0743-network-delay-time](https://github.com/soltsega/Leetcode-Problems/tree/main/0743-network-delay-time/) | Medium |
 ## Binary Tree
@@ -276,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/soltsega/Leetcode-Problems/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0226-invert-binary-tree](https://github.com/soltsega/Leetcode-Problems/tree/main/0226-invert-binary-tree/) | Easy |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/soltsega/Leetcode-Problems/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+| [0257-binary-tree-paths](https://github.com/soltsega/Leetcode-Problems/tree/main/0257-binary-tree-paths/) | Easy |
 | [0450-delete-node-in-a-bst](https://github.com/soltsega/Leetcode-Problems/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0617-merge-two-binary-trees](https://github.com/soltsega/Leetcode-Problems/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/soltsega/Leetcode-Problems/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
@@ -382,4 +386,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/soltsega/Leetcode-Problems/tree/main/0374-guess-number-higher-or-lower/) | Easy |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0257-binary-tree-paths](https://github.com/soltsega/Leetcode-Problems/tree/main/0257-binary-tree-paths/) | Easy |
 <!---LeetCode Topics End-->
