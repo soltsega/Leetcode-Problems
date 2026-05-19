@@ -1,3 +1,8 @@
+# Technique used: Bidirectional Hach Mapping
+# Time complexity: O(N + M) which is linear where N is the length of the pattern and M is the number of words
+
+# Space complexity: O(M)
+
 class Solution:
     def wordPattern(self, pattern: str, s: str) -> bool:
         # Splits the words 
