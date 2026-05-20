@@ -1,3 +1,7 @@
+# Technique used: One-to-One hash mapping(bijection)
+# Time complexity: O(N) where N is the sum of the length both strings
+# Space complexity: O(N)
+
 class Solution:
     def isIsomorphic(self, s: str, t: str) -> bool:
         if len(s) != len(t):
