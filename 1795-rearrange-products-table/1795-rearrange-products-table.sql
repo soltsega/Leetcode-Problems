@@ -1,8 +1,9 @@
 # Write your MySQL query statement below
+-- Technique used: Denormaliztion reversal or unpivoting
 select product_id, "store1" as store, store1 as price
 from Products
 where store1 is not null
-union
+union 
 select product_id, "store2" as store, store2 as price
 from Products
 where store2 is not null
