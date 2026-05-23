@@ -1,3 +1,7 @@
+# Technique used: prime factor reduction or repeated division
+# Time complexity: O(log₂ n + log₃ n + log₅ n) -> O(logn)
+# Space complexity: O(1)
+
 class Solution:
     def isUgly(self, n: int) -> bool:
         
