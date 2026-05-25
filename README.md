@@ -398,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1789-primary-department-for-each-employee](https://github.com/soltsega/Leetcode-Problems/tree/main/1789-primary-department-for-each-employee/) | Easy |
 | [1795-rearrange-products-table](https://github.com/soltsega/Leetcode-Problems/tree/main/1795-rearrange-products-table/) | Easy |
 | [1873-calculate-special-bonus](https://github.com/soltsega/Leetcode-Problems/tree/main/1873-calculate-special-bonus/) | Easy |
+| [3436-find-valid-emails](https://github.com/soltsega/Leetcode-Problems/tree/main/3436-find-valid-emails/) | Easy |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
