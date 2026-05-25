@@ -4,8 +4,11 @@
 
 class Solution:
     def isPerfectSquare(self, num: int) -> bool:
+        # returns false if it is negative
         if num < 1:
             return False
+
+        # set the left 1 and the right the number itself since we are using binary search
         left, right = 1, num
         while left <= right:
             mid = left + (right-left)//2
