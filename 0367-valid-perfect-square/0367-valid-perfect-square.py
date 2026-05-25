@@ -1,3 +1,7 @@
+# Technique used: Binary Search
+# Time complexity: O(logN)
+# Space complexity: O(1)
+
 class Solution:
     def isPerfectSquare(self, num: int) -> bool:
         if num < 1:
@@ -14,8 +18,3 @@ class Solution:
             else:
                 right = mid-1
         return False
-
-
-
-
-        
