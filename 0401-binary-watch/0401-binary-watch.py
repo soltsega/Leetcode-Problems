@@ -1,3 +1,8 @@
+#Technique used: Bit manipulation
+# Time complexity: O(1) since the number os loops are constant
+# Space complexity: O(1) since evne the worst case space is 720  
+
+
 class Solution:
     def readBinaryWatch(self, turnedOn: int):
 
