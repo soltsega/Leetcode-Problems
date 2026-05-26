@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/soltsega/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/soltsega/Leetcode-Problems/tree/main/0338-counting-bits/) | Easy |
 | [0342-power-of-four](https://github.com/soltsega/Leetcode-Problems/tree/main/0342-power-of-four/) | Easy |
+| [0401-binary-watch](https://github.com/soltsega/Leetcode-Problems/tree/main/0401-binary-watch/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -415,4 +416,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0257-binary-tree-paths](https://github.com/soltsega/Leetcode-Problems/tree/main/0257-binary-tree-paths/) | Easy |
+| [0401-binary-watch](https://github.com/soltsega/Leetcode-Problems/tree/main/0401-binary-watch/) | Easy |
 <!---LeetCode Topics End-->
