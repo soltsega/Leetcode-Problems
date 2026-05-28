@@ -1,4 +1,4 @@
-# Technique used: Bitwise OR operator
+# Technique used: Bitwise XOR operator
 # Time complexity: O(M+N)~O(2N) 
 # Space complexity: O(1) since we have used for only result variable
 
