@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/soltsega/Leetcode-Problems/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/soltsega/Leetcode-Problems/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/soltsega/Leetcode-Problems/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/soltsega/Leetcode-Problems/tree/master/0069-sqrtx) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/soltsega/Leetcode-Problems/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/soltsega/Leetcode-Problems/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/soltsega/Leetcode-Problems/tree/master/0027-remove-element) |
+| [0033-search-in-rotated-sorted-array](https://github.com/soltsega/Leetcode-Problems/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/soltsega/Leetcode-Problems/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/soltsega/Leetcode-Problems/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/soltsega/Leetcode-Problems/tree/master/0066-plus-one) |
