@@ -411,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1795-rearrange-products-table](https://github.com/soltsega/Leetcode-Problems/tree/main/1795-rearrange-products-table/) | Easy |
 | [1873-calculate-special-bonus](https://github.com/soltsega/Leetcode-Problems/tree/main/1873-calculate-special-bonus/) | Easy |
 | [3436-find-valid-emails](https://github.com/soltsega/Leetcode-Problems/tree/main/3436-find-valid-emails/) | Easy |
+| [3465-find-products-with-valid-serial-numbers](https://github.com/soltsega/Leetcode-Problems/tree/main/3465-find-products-with-valid-serial-numbers/) | Easy |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
