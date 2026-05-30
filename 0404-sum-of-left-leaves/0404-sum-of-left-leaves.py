@@ -1,6 +1,6 @@
-# Technique used:
-# time complexity:
-# Space complexity: 
+# Technique used: DFS
+# Time complexity: O(N) where N is the number of nodes
+# Space complexity: O(logN) where logN = the height of the tree
 
 # Definition for a binary tree node.
 # class TreeNode:
