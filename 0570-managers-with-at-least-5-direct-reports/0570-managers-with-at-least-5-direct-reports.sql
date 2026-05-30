@@ -1,11 +1,10 @@
 # Write your MySQL query statement 
--- Technique used: 
-select name
-from Employee 
-where id in (
-    select managerId
-    from Employee
-    group by managerId
-    having count(managerId)>=5
-)
-
+-- Technique used: Usind subquery
+SELECT name
+FROM Employee
+WHERE id IN (
+    SELECT managerId
+    FROM Employee
+    GROUP BY managerId
+    HAVING COUNT(managerId) >= 5
+);
