@@ -1,3 +1,7 @@
+# Technique used: Iteration
+# Time complexity: O(N)
+# Space complexity: O(N)
+
 class Solution:
     def fizzBuzz(self, n: int) -> List[str]:
         output = []
