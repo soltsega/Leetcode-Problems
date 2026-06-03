@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/soltsega/Leetcode-Problems/tree/main/0342-power-of-four/) | Easy |
 | [0367-valid-perfect-square](https://github.com/soltsega/Leetcode-Problems/tree/main/0367-valid-perfect-square/) | Easy |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/soltsega/Leetcode-Problems/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
+| [0412-fizz-buzz](https://github.com/soltsega/Leetcode-Problems/tree/main/0412-fizz-buzz/) | Easy |
 | [0509-fibonacci-number](https://github.com/soltsega/Leetcode-Problems/tree/master/0509-fibonacci-number) |
 | [2413-smallest-even-multiple](https://github.com/soltsega/Leetcode-Problems/tree/master/2413-smallest-even-multiple) |
 ## Binary Search
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/soltsega/Leetcode-Problems/tree/master/0392-is-subsequence) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/soltsega/Leetcode-Problems/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0409-longest-palindrome](https://github.com/soltsega/Leetcode-Problems/tree/main/0409-longest-palindrome/) | Easy |
+| [0412-fizz-buzz](https://github.com/soltsega/Leetcode-Problems/tree/main/0412-fizz-buzz/) | Easy |
 | [0434-number-of-segments-in-a-string](https://github.com/soltsega/Leetcode-Problems/tree/main/0434-number-of-segments-in-a-string/) | Easy |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/soltsega/Leetcode-Problems/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [2418-sort-the-people](https://github.com/soltsega/Leetcode-Problems/tree/master/2418-sort-the-people) |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0067-add-binary](https://github.com/soltsega/Leetcode-Problems/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/soltsega/Leetcode-Problems/tree/main/0258-add-digits/) | Easy |
+| [0412-fizz-buzz](https://github.com/soltsega/Leetcode-Problems/tree/main/0412-fizz-buzz/) | Easy |
 | [1929-concatenation-of-array](https://github.com/soltsega/Leetcode-Problems/tree/master/1929-concatenation-of-array) |
 | [2460-apply-operations-to-an-array](https://github.com/soltsega/Leetcode-Problems/tree/master/2460-apply-operations-to-an-array) |
 ## Memoization
