@@ -1,3 +1,7 @@
+# Technique used: O(1)
+# Time complexity: O(N)
+# Space complexity: Single pass array scan
+
 class Solution:
     def thirdMax(self, nums: List[int]) -> int:
         first = second = third = float('-inf')
