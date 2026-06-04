@@ -1,3 +1,8 @@
+# Technique used: Two pointer technique
+# Time complexity: O(Max(M,N))
+# Space complexity: O(Max(M,N))
+
+
 class Solution:
     def addStrings(self, num1: str, num2: str) -> str:
         i, j = len(num1) - 1, len(num2) - 1
