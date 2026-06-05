@@ -1,3 +1,7 @@
+# Technique used: Mathematical modeling
+# Time complexity: O(N)
+# Space complexity: O(1)
+
 class Solution:
     def arrangeCoins(self, n: int) -> int:
         count = 0
