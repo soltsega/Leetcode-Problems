@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/soltsega/Leetcode-Problems/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0412-fizz-buzz](https://github.com/soltsega/Leetcode-Problems/tree/main/0412-fizz-buzz/) | Easy |
 | [0415-add-strings](https://github.com/soltsega/Leetcode-Problems/tree/main/0415-add-strings/) | Easy |
+| [0441-arranging-coins](https://github.com/soltsega/Leetcode-Problems/tree/main/0441-arranging-coins/) | Easy |
 | [0509-fibonacci-number](https://github.com/soltsega/Leetcode-Problems/tree/master/0509-fibonacci-number) |
 | [2413-smallest-even-multiple](https://github.com/soltsega/Leetcode-Problems/tree/master/2413-smallest-even-multiple) |
 ## Binary Search
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/soltsega/Leetcode-Problems/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0367-valid-perfect-square](https://github.com/soltsega/Leetcode-Problems/tree/main/0367-valid-perfect-square/) | Easy |
 | [0374-guess-number-higher-or-lower](https://github.com/soltsega/Leetcode-Problems/tree/main/0374-guess-number-higher-or-lower/) | Easy |
+| [0441-arranging-coins](https://github.com/soltsega/Leetcode-Problems/tree/main/0441-arranging-coins/) | Easy |
 | [0704-binary-search](https://github.com/soltsega/Leetcode-Problems/tree/main/0704-binary-search/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
