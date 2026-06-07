@@ -1,3 +1,8 @@
+# Technique used: Resource ordering
+# Time complexity: O(1) per call as each operation or method uses atomic contant time
+# Space complexity: O(1) as each method return value holds constant atmomic space
+
+
 import threading
 from typing import Callable
 
