@@ -1,4 +1,4 @@
-# Technique used: 
+# Technique used: In place marking technique
 # Time complexity: O(N)
 # Space complexity: O(N)
 class Solution:
