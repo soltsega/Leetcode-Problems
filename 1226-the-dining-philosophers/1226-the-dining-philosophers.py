@@ -26,11 +26,11 @@ class DiningPhilosophers:
         
         # Assign primary and secondary forks based on asymmetry (Even vs Odd)
         if philosopher % 2 == 0:
-            first_fork = self.forks[left_fork_idx]
-            second_fork = self.forks[right_fork_idx]
-        else:
             first_fork = self.forks[right_fork_idx]
             second_fork = self.forks[left_fork_idx]
+        else:
+            first_fork = self.forks[left_fork_idx]
+            second_fork = self.forks[right_fork_idx]
             
         # Acquire locks, execute actions, and release locks safely
         with first_fork:
