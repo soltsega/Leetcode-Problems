@@ -456,4 +456,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0409-longest-palindrome](https://github.com/soltsega/Leetcode-Problems/tree/main/0409-longest-palindrome/) | Easy |
+## Concurrency
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1226-the-dining-philosophers](https://github.com/soltsega/Leetcode-Problems/tree/main/1226-the-dining-philosophers/) | Medium |
 <!---LeetCode Topics End-->
