@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/soltsega/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/soltsega/Leetcode-Problems/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0392-is-subsequence](https://github.com/soltsega/Leetcode-Problems/tree/master/0392-is-subsequence) |
+| [0455-assign-cookies](https://github.com/soltsega/Leetcode-Problems/tree/main/0455-assign-cookies/) | Easy |
 | [2460-apply-operations-to-an-array](https://github.com/soltsega/Leetcode-Problems/tree/master/2460-apply-operations-to-an-array) |
 ## String
 | Problem Name | Difficulty |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/soltsega/Leetcode-Problems/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0414-third-maximum-number](https://github.com/soltsega/Leetcode-Problems/tree/main/0414-third-maximum-number/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/soltsega/Leetcode-Problems/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
+| [0455-assign-cookies](https://github.com/soltsega/Leetcode-Problems/tree/main/0455-assign-cookies/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/soltsega/Leetcode-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [0661-image-smoother](https://github.com/soltsega/Leetcode-Problems/tree/master/0661-image-smoother) |
 | [0704-binary-search](https://github.com/soltsega/Leetcode-Problems/tree/main/0704-binary-search/) | Easy |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/soltsega/Leetcode-Problems/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0389-find-the-difference](https://github.com/soltsega/Leetcode-Problems/tree/main/0389-find-the-difference/) | Easy |
 | [0414-third-maximum-number](https://github.com/soltsega/Leetcode-Problems/tree/main/0414-third-maximum-number/) | Easy |
+| [0455-assign-cookies](https://github.com/soltsega/Leetcode-Problems/tree/main/0455-assign-cookies/) | Easy |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/soltsega/Leetcode-Problems/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/soltsega/Leetcode-Problems/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2418-sort-the-people](https://github.com/soltsega/Leetcode-Problems/tree/master/2418-sort-the-people) |
@@ -458,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0409-longest-palindrome](https://github.com/soltsega/Leetcode-Problems/tree/main/0409-longest-palindrome/) | Easy |
+| [0455-assign-cookies](https://github.com/soltsega/Leetcode-Problems/tree/main/0455-assign-cookies/) | Easy |
 ## Concurrency
 | Problem Name | Difficulty |
 | ------- | ------- |
