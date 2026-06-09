@@ -1,3 +1,7 @@
+# Technique used: Divisor Enumeration
+# Time complexity: O(N^2) as a worst case
+# Space complexity: O(N)
+
 class Solution:
     def repeatedSubstringPattern(self, s: str) -> bool:
         n = len(s)
