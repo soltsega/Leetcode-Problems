@@ -1,9 +1,13 @@
+# Technique used: XOR + Brian Kernighan's Algorithm
+# Time Complexity: O(n)
+# Space Complexity: O(1)
+
 class Solution:
     def hammingDistance(self, x: int, y: int) -> int:
         xor = x^y
         count=0
 
-        while xor!=0:
-            count+=xor&1
-            xor>>=1
+        while xor:
+            xor&=xor-1
+            count+=1
         return count
