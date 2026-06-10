@@ -238,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/soltsega/Leetcode-Problems/tree/main/0389-find-the-difference/) | Easy |
 | [0401-binary-watch](https://github.com/soltsega/Leetcode-Problems/tree/main/0401-binary-watch/) | Easy |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/soltsega/Leetcode-Problems/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
+| [0461-hamming-distance](https://github.com/soltsega/Leetcode-Problems/tree/main/0461-hamming-distance/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
