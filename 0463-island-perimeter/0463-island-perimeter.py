@@ -1,3 +1,7 @@
+# Technique used: Grid Traversal
+# Time complexity: O(MxN)
+# Space complexity: O(1)
+
 class Solution:
     def islandPerimeter(self, grid: List[List[int]]) -> int:
         height, width = len(grid), len(grid[0])
