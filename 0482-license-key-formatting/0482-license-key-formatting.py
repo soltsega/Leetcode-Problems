@@ -1,3 +1,7 @@
+# Technique used: String manipulation
+# Time complexity: O(N)
+# Space complexity: O(N)
+
 class Solution:
     def licenseKeyFormatting(self, s: str, k: int) -> str:
         s = s.replace("-", "").upper()
