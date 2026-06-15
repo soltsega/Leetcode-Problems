@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/soltsega/Leetcode-Problems/tree/main/0415-add-strings/) | Easy |
 | [0434-number-of-segments-in-a-string](https://github.com/soltsega/Leetcode-Problems/tree/main/0434-number-of-segments-in-a-string/) | Easy |
 | [0459-repeated-substring-pattern](https://github.com/soltsega/Leetcode-Problems/tree/main/0459-repeated-substring-pattern/) | Easy |
+| [0482-license-key-formatting](https://github.com/soltsega/Leetcode-Problems/tree/main/0482-license-key-formatting/) | Easy |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/soltsega/Leetcode-Problems/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [2418-sort-the-people](https://github.com/soltsega/Leetcode-Problems/tree/master/2418-sort-the-people) |
 | [2678-number-of-senior-citizens](https://github.com/soltsega/Leetcode-Problems/tree/master/2678-number-of-senior-citizens) |
