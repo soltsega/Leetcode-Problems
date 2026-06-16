@@ -1,3 +1,7 @@
+# Technique used: Dynamic Programming
+# Time complexity: O(Nsqrt(N))
+# Space complexity: O(N)
+
 class Solution:
     def numSquares(self, n: int) -> int:
 
