@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/soltsega/Leetcode-Problems/tree/main/0412-fizz-buzz/) | Easy |
 | [0415-add-strings](https://github.com/soltsega/Leetcode-Problems/tree/main/0415-add-strings/) | Easy |
 | [0441-arranging-coins](https://github.com/soltsega/Leetcode-Problems/tree/main/0441-arranging-coins/) | Easy |
+| [0492-construct-the-rectangle](https://github.com/soltsega/Leetcode-Problems/tree/main/0492-construct-the-rectangle/) | Easy |
 | [0509-fibonacci-number](https://github.com/soltsega/Leetcode-Problems/tree/master/0509-fibonacci-number) |
 | [2413-smallest-even-multiple](https://github.com/soltsega/Leetcode-Problems/tree/master/2413-smallest-even-multiple) |
 ## Binary Search
