@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/soltsega/Leetcode-Problems/tree/main/0258-add-digits/) | Easy |
 | [0263-ugly-number](https://github.com/soltsega/Leetcode-Problems/tree/main/0263-ugly-number/) | Easy |
 | [0268-missing-number](https://github.com/soltsega/Leetcode-Problems/tree/master/0268-missing-number) |
+| [0279-perfect-squares](https://github.com/soltsega/Leetcode-Problems/tree/main/0279-perfect-squares/) | Medium |
 | [0326-power-of-three](https://github.com/soltsega/Leetcode-Problems/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/soltsega/Leetcode-Problems/tree/main/0342-power-of-four/) | Easy |
 | [0367-valid-perfect-square](https://github.com/soltsega/Leetcode-Problems/tree/main/0367-valid-perfect-square/) | Easy |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/soltsega/Leetcode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/soltsega/Leetcode-Problems/tree/master/0070-climbing-stairs) |
+| [0279-perfect-squares](https://github.com/soltsega/Leetcode-Problems/tree/main/0279-perfect-squares/) | Medium |
 | [0338-counting-bits](https://github.com/soltsega/Leetcode-Problems/tree/main/0338-counting-bits/) | Easy |
 | [0392-is-subsequence](https://github.com/soltsega/Leetcode-Problems/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/soltsega/Leetcode-Problems/tree/master/0509-fibonacci-number) |
@@ -363,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/soltsega/Leetcode-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/soltsega/Leetcode-Problems/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0226-invert-binary-tree](https://github.com/soltsega/Leetcode-Problems/tree/main/0226-invert-binary-tree/) | Easy |
+| [0279-perfect-squares](https://github.com/soltsega/Leetcode-Problems/tree/main/0279-perfect-squares/) | Medium |
 | [0404-sum-of-left-leaves](https://github.com/soltsega/Leetcode-Problems/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0463-island-perimeter](https://github.com/soltsega/Leetcode-Problems/tree/main/0463-island-perimeter/) | Easy |
 | [0617-merge-two-binary-trees](https://github.com/soltsega/Leetcode-Problems/tree/main/0617-merge-two-binary-trees/) | Easy |
