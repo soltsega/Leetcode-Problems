@@ -1,3 +1,7 @@
+# Technique used: Single Scan Linear Algorithm
+# Time complexity: O(N)
+# Space complexity: O(1)
+
 class Solution:
     def findPoisonedDuration(self, timeSeries: List[int], duration: int) -> int:
         if not timeSeries or duration==0:
