@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/soltsega/Leetcode-Problems/tree/main/0389-find-the-difference/) | Easy |
 | [0409-longest-palindrome](https://github.com/soltsega/Leetcode-Problems/tree/main/0409-longest-palindrome/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/soltsega/Leetcode-Problems/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
+| [0496-next-greater-element-i](https://github.com/soltsega/Leetcode-Problems/tree/main/0496-next-greater-element-i/) | Easy |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/soltsega/Leetcode-Problems/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/soltsega/Leetcode-Problems/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/soltsega/Leetcode-Problems/tree/master/2225-find-players-with-zero-or-one-losses) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/soltsega/Leetcode-Problems/tree/main/0455-assign-cookies/) | Easy |
 | [0463-island-perimeter](https://github.com/soltsega/Leetcode-Problems/tree/main/0463-island-perimeter/) | Easy |
 | [0495-teemo-attacking](https://github.com/soltsega/Leetcode-Problems/tree/main/0495-teemo-attacking/) | Easy |
+| [0496-next-greater-element-i](https://github.com/soltsega/Leetcode-Problems/tree/main/0496-next-greater-element-i/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/soltsega/Leetcode-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [0661-image-smoother](https://github.com/soltsega/Leetcode-Problems/tree/master/0661-image-smoother) |
 | [0704-binary-search](https://github.com/soltsega/Leetcode-Problems/tree/main/0704-binary-search/) | Easy |
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/soltsega/Leetcode-Problems/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/soltsega/Leetcode-Problems/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/soltsega/Leetcode-Problems/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0496-next-greater-element-i](https://github.com/soltsega/Leetcode-Problems/tree/main/0496-next-greater-element-i/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -483,4 +486,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1226-the-dining-philosophers](https://github.com/soltsega/Leetcode-Problems/tree/main/1226-the-dining-philosophers/) | Medium |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0496-next-greater-element-i](https://github.com/soltsega/Leetcode-Problems/tree/main/0496-next-greater-element-i/) | Easy |
 <!---LeetCode Topics End-->
