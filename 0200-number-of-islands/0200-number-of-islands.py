@@ -1,3 +1,7 @@
+# TEchnique used: DFS
+# Time compleixty: O(RXC)
+# Space compleixty: O(RXC)
+
 class Solution:
     def numIslands(self, grid: List[List[str]]) -> int:
 
