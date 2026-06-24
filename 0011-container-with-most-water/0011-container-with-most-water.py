@@ -1,3 +1,7 @@
+# Technique used: Two pointers
+# Time complexity: O(N)
+# Space complexity: O(1)
+
 class Solution:
     def maxArea(self, height: List[int]) -> int:
         n = len(height)
