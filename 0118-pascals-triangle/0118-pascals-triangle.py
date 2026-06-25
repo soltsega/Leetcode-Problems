@@ -1,3 +1,7 @@
+# Technique used: Dynamic Construction
+# Time complexity: O(M*N)
+# Space complexity: O(M*N)
+
 class Solution:
     def generate(self, numRows: int) -> List[List[int]]:
         triangle = []
