@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/soltsega/Leetcode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/soltsega/Leetcode-Problems/tree/master/0070-climbing-stairs) |
+| [0118-pascals-triangle](https://github.com/soltsega/Leetcode-Problems/tree/main/0118-pascals-triangle/) | Easy |
 | [0279-perfect-squares](https://github.com/soltsega/Leetcode-Problems/tree/main/0279-perfect-squares/) | Medium |
 | [0338-counting-bits](https://github.com/soltsega/Leetcode-Problems/tree/main/0338-counting-bits/) | Easy |
 | [0392-is-subsequence](https://github.com/soltsega/Leetcode-Problems/tree/master/0392-is-subsequence) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/soltsega/Leetcode-Problems/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/soltsega/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/soltsega/Leetcode-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0118-pascals-triangle](https://github.com/soltsega/Leetcode-Problems/tree/main/0118-pascals-triangle/) | Easy |
 | [0136-single-number](https://github.com/soltsega/Leetcode-Problems/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/soltsega/Leetcode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/soltsega/Leetcode-Problems/tree/master/0189-rotate-array) |
