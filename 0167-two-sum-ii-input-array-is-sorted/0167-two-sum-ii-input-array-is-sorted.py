@@ -1,3 +1,7 @@
+# Technique used: Two pointers
+# Time complexity: O(N)
+# Space complexity: O(1)
+
 class Solution:
     def twoSum(self, numbers: List[int], target: int) -> List[int]:
         l, r = 0, len(numbers)-1
