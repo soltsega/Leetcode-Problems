@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/soltsega/Leetcode-Problems/tree/master/0023-merge-k-sorted-lists) |
+| [0506-relative-ranks](https://github.com/soltsega/Leetcode-Problems/tree/main/0506-relative-ranks/) | Easy |
 | [0743-network-delay-time](https://github.com/soltsega/Leetcode-Problems/tree/main/0743-network-delay-time/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0495-teemo-attacking](https://github.com/soltsega/Leetcode-Problems/tree/main/0495-teemo-attacking/) | Easy |
 | [0496-next-greater-element-i](https://github.com/soltsega/Leetcode-Problems/tree/main/0496-next-greater-element-i/) | Easy |
 | [0500-keyboard-row](https://github.com/soltsega/Leetcode-Problems/tree/main/0500-keyboard-row/) | Easy |
+| [0506-relative-ranks](https://github.com/soltsega/Leetcode-Problems/tree/main/0506-relative-ranks/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/soltsega/Leetcode-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [0661-image-smoother](https://github.com/soltsega/Leetcode-Problems/tree/master/0661-image-smoother) |
 | [0704-binary-search](https://github.com/soltsega/Leetcode-Problems/tree/main/0704-binary-search/) | Easy |
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/soltsega/Leetcode-Problems/tree/main/0389-find-the-difference/) | Easy |
 | [0414-third-maximum-number](https://github.com/soltsega/Leetcode-Problems/tree/main/0414-third-maximum-number/) | Easy |
 | [0455-assign-cookies](https://github.com/soltsega/Leetcode-Problems/tree/main/0455-assign-cookies/) | Easy |
+| [0506-relative-ranks](https://github.com/soltsega/Leetcode-Problems/tree/main/0506-relative-ranks/) | Easy |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/soltsega/Leetcode-Problems/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/soltsega/Leetcode-Problems/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2418-sort-the-people](https://github.com/soltsega/Leetcode-Problems/tree/master/2418-sort-the-people) |
