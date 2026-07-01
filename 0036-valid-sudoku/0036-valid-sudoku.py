@@ -1,3 +1,6 @@
+# Technique used: Hash mapping
+# Time complexity: O(1)
+# Space complexity: O(1)
 class Solution:
     def isValidSudoku(self, board: List[List[str]]) -> bool:
 
