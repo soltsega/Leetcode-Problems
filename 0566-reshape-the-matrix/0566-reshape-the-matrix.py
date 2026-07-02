@@ -1,6 +1,6 @@
-# Technique used:
-# Time complexity:
-# Space complexity:
+# Technique used: Direct index mapping
+# Time complexity: O(m*n) + O(m*n) = O(m*n)
+# Space complexity: O(m*n)
 
 class Solution:
     def matrixReshape(self, mat, r, c):
