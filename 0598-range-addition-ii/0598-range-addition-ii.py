@@ -1,3 +1,7 @@
+# Technique used:
+# Time complexity: O(N)
+# Space complexity: O(1)
+
 class Solution:
     def maxCount(self, m: int, n: int, ops: List[List[int]]) -> int:
         if not ops:
