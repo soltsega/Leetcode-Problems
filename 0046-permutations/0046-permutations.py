@@ -1,4 +1,6 @@
-
+# Technique used: Backtracking
+# Time complexity: O(N*N!)
+# Space complexity: O(N!)
 
 
 class Solution:
