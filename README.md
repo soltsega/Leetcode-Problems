@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/soltsega/Leetcode-Problems/tree/main/0441-arranging-coins/) | Easy |
 | [0492-construct-the-rectangle](https://github.com/soltsega/Leetcode-Problems/tree/main/0492-construct-the-rectangle/) | Easy |
 | [0509-fibonacci-number](https://github.com/soltsega/Leetcode-Problems/tree/master/0509-fibonacci-number) |
+| [0598-range-addition-ii](https://github.com/soltsega/Leetcode-Problems/tree/main/0598-range-addition-ii/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/soltsega/Leetcode-Problems/tree/master/2413-smallest-even-multiple) |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/soltsega/Leetcode-Problems/tree/main/0500-keyboard-row/) | Easy |
 | [0506-relative-ranks](https://github.com/soltsega/Leetcode-Problems/tree/main/0506-relative-ranks/) | Easy |
 | [0566-reshape-the-matrix](https://github.com/soltsega/Leetcode-Problems/tree/main/0566-reshape-the-matrix/) | Easy |
+| [0598-range-addition-ii](https://github.com/soltsega/Leetcode-Problems/tree/main/0598-range-addition-ii/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/soltsega/Leetcode-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [0661-image-smoother](https://github.com/soltsega/Leetcode-Problems/tree/master/0661-image-smoother) |
 | [0704-binary-search](https://github.com/soltsega/Leetcode-Problems/tree/main/0704-binary-search/) | Easy |
