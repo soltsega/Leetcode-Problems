@@ -1,4 +1,4 @@
-# Technique used:
+# Technique used: Matrix intersection
 # Time complexity: O(N)
 # Space complexity: O(1)
 
