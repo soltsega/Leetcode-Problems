@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/soltsega/Leetcode-Problems/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0496-next-greater-element-i](https://github.com/soltsega/Leetcode-Problems/tree/main/0496-next-greater-element-i/) | Easy |
 | [0500-keyboard-row](https://github.com/soltsega/Leetcode-Problems/tree/main/0500-keyboard-row/) | Easy |
+| [0645-set-mismatch](https://github.com/soltsega/Leetcode-Problems/tree/main/0645-set-mismatch/) | Easy |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/soltsega/Leetcode-Problems/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/soltsega/Leetcode-Problems/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/soltsega/Leetcode-Problems/tree/master/2225-find-players-with-zero-or-one-losses) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/soltsega/Leetcode-Problems/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0598-range-addition-ii](https://github.com/soltsega/Leetcode-Problems/tree/main/0598-range-addition-ii/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/soltsega/Leetcode-Problems/tree/master/0643-maximum-average-subarray-i) |
+| [0645-set-mismatch](https://github.com/soltsega/Leetcode-Problems/tree/main/0645-set-mismatch/) | Easy |
 | [0661-image-smoother](https://github.com/soltsega/Leetcode-Problems/tree/master/0661-image-smoother) |
 | [0704-binary-search](https://github.com/soltsega/Leetcode-Problems/tree/main/0704-binary-search/) | Easy |
 | [0896-monotonic-array](https://github.com/soltsega/Leetcode-Problems/tree/master/0896-monotonic-array) |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0401-binary-watch](https://github.com/soltsega/Leetcode-Problems/tree/main/0401-binary-watch/) | Easy |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/soltsega/Leetcode-Problems/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0461-hamming-distance](https://github.com/soltsega/Leetcode-Problems/tree/main/0461-hamming-distance/) | Easy |
+| [0645-set-mismatch](https://github.com/soltsega/Leetcode-Problems/tree/main/0645-set-mismatch/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -299,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/soltsega/Leetcode-Problems/tree/main/0414-third-maximum-number/) | Easy |
 | [0455-assign-cookies](https://github.com/soltsega/Leetcode-Problems/tree/main/0455-assign-cookies/) | Easy |
 | [0506-relative-ranks](https://github.com/soltsega/Leetcode-Problems/tree/main/0506-relative-ranks/) | Easy |
+| [0645-set-mismatch](https://github.com/soltsega/Leetcode-Problems/tree/main/0645-set-mismatch/) | Easy |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/soltsega/Leetcode-Problems/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/soltsega/Leetcode-Problems/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2418-sort-the-people](https://github.com/soltsega/Leetcode-Problems/tree/master/2418-sort-the-people) |
