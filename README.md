@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/soltsega/Leetcode-Problems/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/soltsega/Leetcode-Problems/tree/main/0036-valid-sudoku/) | Medium |
 | [0039-combination-sum](https://github.com/soltsega/Leetcode-Problems/tree/main/0039-combination-sum/) | Medium |
+| [0046-permutations](https://github.com/soltsega/Leetcode-Problems/tree/main/0046-permutations/) | Medium |
 | [0066-plus-one](https://github.com/soltsega/Leetcode-Problems/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/soltsega/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/soltsega/Leetcode-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -504,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0039-combination-sum](https://github.com/soltsega/Leetcode-Problems/tree/main/0039-combination-sum/) | Medium |
+| [0046-permutations](https://github.com/soltsega/Leetcode-Problems/tree/main/0046-permutations/) | Medium |
 | [0257-binary-tree-paths](https://github.com/soltsega/Leetcode-Problems/tree/main/0257-binary-tree-paths/) | Easy |
 | [0401-binary-watch](https://github.com/soltsega/Leetcode-Problems/tree/main/0401-binary-watch/) | Easy |
 ## Greedy
