@@ -1,3 +1,7 @@
+# Technique used:Hash in-place or array index mutating
+# Time complexity: O(N)
+# Space complexity: O(1)
+
 class Solution:
     def findErrorNums(self, nums: List[int]) -> List[int]:
         missing =duplicate = -1
