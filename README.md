@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0459-repeated-substring-pattern](https://github.com/soltsega/Leetcode-Problems/tree/main/0459-repeated-substring-pattern/) | Easy |
 | [0482-license-key-formatting](https://github.com/soltsega/Leetcode-Problems/tree/main/0482-license-key-formatting/) | Easy |
 | [0500-keyboard-row](https://github.com/soltsega/Leetcode-Problems/tree/main/0500-keyboard-row/) | Easy |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/soltsega/Leetcode-Problems/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/soltsega/Leetcode-Problems/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [2418-sort-the-people](https://github.com/soltsega/Leetcode-Problems/tree/master/2418-sort-the-people) |
 | [2678-number-of-senior-citizens](https://github.com/soltsega/Leetcode-Problems/tree/master/2678-number-of-senior-citizens) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/soltsega/Leetcode-Problems/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0496-next-greater-element-i](https://github.com/soltsega/Leetcode-Problems/tree/main/0496-next-greater-element-i/) | Easy |
 | [0500-keyboard-row](https://github.com/soltsega/Leetcode-Problems/tree/main/0500-keyboard-row/) | Easy |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/soltsega/Leetcode-Problems/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
 | [0645-set-mismatch](https://github.com/soltsega/Leetcode-Problems/tree/main/0645-set-mismatch/) | Easy |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/soltsega/Leetcode-Problems/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/soltsega/Leetcode-Problems/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/soltsega/Leetcode-Problems/tree/main/0506-relative-ranks/) | Easy |
 | [0566-reshape-the-matrix](https://github.com/soltsega/Leetcode-Problems/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0598-range-addition-ii](https://github.com/soltsega/Leetcode-Problems/tree/main/0598-range-addition-ii/) | Easy |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/soltsega/Leetcode-Problems/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/soltsega/Leetcode-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/soltsega/Leetcode-Problems/tree/main/0645-set-mismatch/) | Easy |
 | [0661-image-smoother](https://github.com/soltsega/Leetcode-Problems/tree/master/0661-image-smoother) |
