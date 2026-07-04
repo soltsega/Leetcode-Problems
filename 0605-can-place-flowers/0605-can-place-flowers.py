@@ -1,3 +1,7 @@
+# Technique usd: Single Pass Greedy Algorithm
+# Time Complexity: O(M)
+# Space Complexity: O(1)
+
 class Solution:
     def canPlaceFlowers(self, flowerbed: List[int], n: int) -> bool:
 
