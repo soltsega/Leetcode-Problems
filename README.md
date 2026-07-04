@@ -232,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/soltsega/Leetcode-Problems/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0598-range-addition-ii](https://github.com/soltsega/Leetcode-Problems/tree/main/0598-range-addition-ii/) | Easy |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/soltsega/Leetcode-Problems/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
+| [0605-can-place-flowers](https://github.com/soltsega/Leetcode-Problems/tree/main/0605-can-place-flowers/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/soltsega/Leetcode-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/soltsega/Leetcode-Problems/tree/main/0645-set-mismatch/) | Easy |
 | [0661-image-smoother](https://github.com/soltsega/Leetcode-Problems/tree/master/0661-image-smoother) |
@@ -523,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/soltsega/Leetcode-Problems/tree/main/0011-container-with-most-water/) | Medium |
 | [0409-longest-palindrome](https://github.com/soltsega/Leetcode-Problems/tree/main/0409-longest-palindrome/) | Easy |
 | [0455-assign-cookies](https://github.com/soltsega/Leetcode-Problems/tree/main/0455-assign-cookies/) | Easy |
+| [0605-can-place-flowers](https://github.com/soltsega/Leetcode-Problems/tree/main/0605-can-place-flowers/) | Easy |
 ## Concurrency
 | Problem Name | Difficulty |
 | ------- | ------- |
