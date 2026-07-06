@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/soltsega/Leetcode-Problems/tree/main/0002-add-two-numbers/) | Medium |
 | [0007-reverse-integer](https://github.com/soltsega/Leetcode-Problems/tree/main/0007-reverse-integer/) | Medium |
 | [0012-integer-to-roman](https://github.com/soltsega/Leetcode-Problems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/soltsega/Leetcode-Problems/tree/master/0013-roman-to-integer) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/soltsega/Leetcode-Problems/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/soltsega/Leetcode-Problems/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0050-powx-n](https://github.com/soltsega/Leetcode-Problems/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/soltsega/Leetcode-Problems/tree/main/0203-remove-linked-list-elements/) | Easy |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/soltsega/Leetcode-Problems/tree/main/0002-add-two-numbers/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/soltsega/Leetcode-Problems/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/soltsega/Leetcode-Problems/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0023-merge-k-sorted-lists](https://github.com/soltsega/Leetcode-Problems/tree/master/0023-merge-k-sorted-lists) |
