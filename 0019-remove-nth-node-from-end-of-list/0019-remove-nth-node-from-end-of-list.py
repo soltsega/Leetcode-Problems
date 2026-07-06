@@ -1,3 +1,7 @@
+# Techniue used: Two pointers and dummy node techniques
+# Time complexity: O(L) where L is the length of the linkedlist
+# Space Complexity: O(1)
+
 # Definition for singly-linked list.
 # class ListNode:
 #     def __init__(self, val=0, next=None):
