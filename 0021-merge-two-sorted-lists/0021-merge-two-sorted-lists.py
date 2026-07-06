@@ -1,3 +1,6 @@
+# Technique used: 
+# Time complexity: O(N)
+# Space complexity: O(1)
 # Definition for singly-linked list.
 class ListNode(object):
     def __init__(self, val=0, next=None):
@@ -28,7 +31,7 @@ class Solution(object):
             tail = tail.next         # Move our merged list pointer forward
         
         # If one list still has nodes left, attach them all at once
-        tail.next = list1 if list1 is not None else list2
+        tail.next = list1 if list1 else list2
 
         # The actual head of our merged list is the node after dummy
         return dummy.next
