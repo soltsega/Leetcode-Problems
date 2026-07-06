@@ -12,5 +12,6 @@ class Solution:
         while pA != pB:
             pA = pA.next if pA else headB
             pB = pB.next if pB else headA
+            # we are reseting them here to make them traverse the same distance with out us having to calculate the length of each of hte linkedlist which can potentially bloat the time complexities
         return pA
         
