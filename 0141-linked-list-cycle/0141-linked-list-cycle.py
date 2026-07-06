@@ -1,3 +1,7 @@
+# Technique used: Two pointers 
+# Time complexity: O(N)
+# Space complexity: O(1)
+
 # Definition for singly-linked list.
 # class ListNode:
 #     def __init__(self, x):
