@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/soltsega/Leetcode-Problems/tree/main/0263-ugly-number/) | Easy |
 | [0268-missing-number](https://github.com/soltsega/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/soltsega/Leetcode-Problems/tree/main/0279-perfect-squares/) | Medium |
+| [0292-nim-game](https://github.com/soltsega/Leetcode-Problems/tree/main/0292-nim-game/) | Easy |
 | [0326-power-of-three](https://github.com/soltsega/Leetcode-Problems/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/soltsega/Leetcode-Problems/tree/main/0342-power-of-four/) | Easy |
 | [0367-valid-perfect-square](https://github.com/soltsega/Leetcode-Problems/tree/main/0367-valid-perfect-square/) | Easy |
@@ -547,4 +548,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/soltsega/Leetcode-Problems/tree/main/0200-number-of-islands/) | Medium |
+## Brainteaser
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0292-nim-game](https://github.com/soltsega/Leetcode-Problems/tree/main/0292-nim-game/) | Easy |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0292-nim-game](https://github.com/soltsega/Leetcode-Problems/tree/main/0292-nim-game/) | Easy |
 <!---LeetCode Topics End-->
