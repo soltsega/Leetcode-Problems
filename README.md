@@ -353,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/soltsega/Leetcode-Problems/tree/main/0257-binary-tree-paths/) | Easy |
 | [0404-sum-of-left-leaves](https://github.com/soltsega/Leetcode-Problems/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0450-delete-node-in-a-bst](https://github.com/soltsega/Leetcode-Problems/tree/main/0450-delete-node-in-a-bst/) | Medium |
+| [0501-find-mode-in-binary-search-tree](https://github.com/soltsega/Leetcode-Problems/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 | [0617-merge-two-binary-trees](https://github.com/soltsega/Leetcode-Problems/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/soltsega/Leetcode-Problems/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 ## Depth-First Search
@@ -373,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/soltsega/Leetcode-Problems/tree/main/0257-binary-tree-paths/) | Easy |
 | [0404-sum-of-left-leaves](https://github.com/soltsega/Leetcode-Problems/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0463-island-perimeter](https://github.com/soltsega/Leetcode-Problems/tree/main/0463-island-perimeter/) | Easy |
+| [0501-find-mode-in-binary-search-tree](https://github.com/soltsega/Leetcode-Problems/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 | [0617-merge-two-binary-trees](https://github.com/soltsega/Leetcode-Problems/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0743-network-delay-time](https://github.com/soltsega/Leetcode-Problems/tree/main/0743-network-delay-time/) | Medium |
 ## Binary Tree
@@ -394,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/soltsega/Leetcode-Problems/tree/main/0257-binary-tree-paths/) | Easy |
 | [0404-sum-of-left-leaves](https://github.com/soltsega/Leetcode-Problems/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0450-delete-node-in-a-bst](https://github.com/soltsega/Leetcode-Problems/tree/main/0450-delete-node-in-a-bst/) | Medium |
+| [0501-find-mode-in-binary-search-tree](https://github.com/soltsega/Leetcode-Problems/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 | [0617-merge-two-binary-trees](https://github.com/soltsega/Leetcode-Problems/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/soltsega/Leetcode-Problems/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 ## Prefix Sum
@@ -437,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/soltsega/Leetcode-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/soltsega/Leetcode-Problems/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/soltsega/Leetcode-Problems/tree/main/0450-delete-node-in-a-bst/) | Medium |
+| [0501-find-mode-in-binary-search-tree](https://github.com/soltsega/Leetcode-Problems/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/soltsega/Leetcode-Problems/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
