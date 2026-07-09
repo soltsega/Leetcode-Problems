@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/soltsega/Leetcode-Problems/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
 | [0645-set-mismatch](https://github.com/soltsega/Leetcode-Problems/tree/main/0645-set-mismatch/) | Easy |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/soltsega/Leetcode-Problems/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/soltsega/Leetcode-Problems/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/soltsega/Leetcode-Problems/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/soltsega/Leetcode-Problems/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2418-sort-the-people](https://github.com/soltsega/Leetcode-Problems/tree/master/2418-sort-the-people) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/soltsega/Leetcode-Problems/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1480-running-sum-of-1d-array](https://github.com/soltsega/Leetcode-Problems/tree/master/1480-running-sum-of-1d-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/soltsega/Leetcode-Problems/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
+| [1636-sort-array-by-increasing-frequency](https://github.com/soltsega/Leetcode-Problems/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/soltsega/Leetcode-Problems/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [1929-concatenation-of-array](https://github.com/soltsega/Leetcode-Problems/tree/master/1929-concatenation-of-array) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/soltsega/Leetcode-Problems/tree/master/2225-find-players-with-zero-or-one-losses) |
@@ -321,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/soltsega/Leetcode-Problems/tree/main/0506-relative-ranks/) | Easy |
 | [0645-set-mismatch](https://github.com/soltsega/Leetcode-Problems/tree/main/0645-set-mismatch/) | Easy |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/soltsega/Leetcode-Problems/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
+| [1636-sort-array-by-increasing-frequency](https://github.com/soltsega/Leetcode-Problems/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/soltsega/Leetcode-Problems/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2418-sort-the-people](https://github.com/soltsega/Leetcode-Problems/tree/master/2418-sort-the-people) |
 ## Stack
