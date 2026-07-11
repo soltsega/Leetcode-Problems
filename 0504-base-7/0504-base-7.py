@@ -1,3 +1,8 @@
+# Technique used: Bit manipulation
+# Time complexity: O(logbN)
+# Space complexity: O(logbN)
+
+
 class Solution:
     def convertToBase7(self, num: int) -> str:
         if num==0:
