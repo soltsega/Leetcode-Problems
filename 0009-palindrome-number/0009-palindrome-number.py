@@ -1,3 +1,7 @@
+# Technique used: Half number reversal
+# Time complexity: O(N)
+# Space complexity: O(1)
+
 class Solution:
     def isPalindrome(self, x: int) -> bool:
         if x<0 or (x%10==0 and x!=0):
