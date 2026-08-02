@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/soltsega/Leetcode-Problems/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/soltsega/Leetcode-Problems/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/soltsega/Leetcode-Problems/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0705-design-hashset](https://github.com/soltsega/Leetcode-Problems/tree/main/0705-design-hashset/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/soltsega/Leetcode-Problems/tree/main/0500-keyboard-row/) | Easy |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/soltsega/Leetcode-Problems/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
 | [0645-set-mismatch](https://github.com/soltsega/Leetcode-Problems/tree/main/0645-set-mismatch/) | Easy |
+| [0705-design-hashset](https://github.com/soltsega/Leetcode-Problems/tree/main/0705-design-hashset/) | Easy |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/soltsega/Leetcode-Problems/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/soltsega/Leetcode-Problems/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/soltsega/Leetcode-Problems/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/soltsega/Leetcode-Problems/tree/main/0645-set-mismatch/) | Easy |
 | [0661-image-smoother](https://github.com/soltsega/Leetcode-Problems/tree/master/0661-image-smoother) |
 | [0704-binary-search](https://github.com/soltsega/Leetcode-Problems/tree/main/0704-binary-search/) | Easy |
+| [0705-design-hashset](https://github.com/soltsega/Leetcode-Problems/tree/main/0705-design-hashset/) | Easy |
 | [0896-monotonic-array](https://github.com/soltsega/Leetcode-Problems/tree/master/0896-monotonic-array) |
 | [1089-duplicate-zeros](https://github.com/soltsega/Leetcode-Problems/tree/main/1089-duplicate-zeros/) | Easy |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/soltsega/Leetcode-Problems/tree/master/1160-find-words-that-can-be-formed-by-characters) |
@@ -471,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/soltsega/Leetcode-Problems/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/soltsega/Leetcode-Problems/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0303-range-sum-query-immutable](https://github.com/soltsega/Leetcode-Problems/tree/master/0303-range-sum-query-immutable) |
+| [0705-design-hashset](https://github.com/soltsega/Leetcode-Problems/tree/main/0705-design-hashset/) | Easy |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -572,4 +576,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0292-nim-game](https://github.com/soltsega/Leetcode-Problems/tree/main/0292-nim-game/) | Easy |
+## Hash Function
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0705-design-hashset](https://github.com/soltsega/Leetcode-Problems/tree/main/0705-design-hashset/) | Easy |
 <!---LeetCode Topics End-->
