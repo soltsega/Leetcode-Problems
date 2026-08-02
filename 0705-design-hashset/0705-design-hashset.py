@@ -1,3 +1,7 @@
+# Techinque used: Hash set implemented using separae chaining
+# Space complexity:O(M+N)
+# Time complexity:O(1) an average case time complexity but it can also reach about O(N) as a worst case
+
 class Node:
     def __init__(self, val=0, next=None):
         self.val = val
