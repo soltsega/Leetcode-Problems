@@ -1,15 +1,13 @@
-class Solution(object):
-    def twoSum(self, nums, target):
-        """
-        :type nums: List[int]
-        :type target: int
-        :rtype: List[int]
-        """
-        prevmap = {}
-
-        for i, n in enumerate(nums):
-            complement = target - n
-            if complement in prevmap:
-                return [prevmap[complement], i]
-            
-            prevmap[n] = i
+# Technique usd: Hash Map
+# Time complexity: O(N)
+# Space complexity: O(N)
+class Solution:
+    def twoSum(self, nums: list[int], target: int) -> list[int]:
+        seen = {}
+        for i, num in enumerate(nums):
+            complement = target - num
+            if complement in seen:
+                return [seen[complement], i] 
+            seen[num] = i
+    
+        
